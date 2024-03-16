@@ -1,3 +1,25 @@
+# Lista de Tareas en React
+
+Este es un proyecto de lista de tareas construido con React. Permite a los usuarios agregar nuevas tareas, marcarlas como completadas y eliminarlas de la lista. La aplicación también ofrece funcionalidades adicionales como filtrado de tareas, búsqueda y almacenamiento persistente utilizando el almacenamiento local del navegador.
+
+## Características
+
+- Agregar nuevas tareas
+- Marcar tareas como completadas
+- Eliminar tareas
+- Filtrar tareas por estado (completadas / pendientes)
+- Búsqueda de tareas
+- Almacenamiento persistente utilizando localStorage
+
+## Tecnologías Utilizadas
+
+- React
+- JSX
+- JavaScript
+- CSS
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
